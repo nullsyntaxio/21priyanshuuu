@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 **Priyanshu Singh** 🌟
+# 🌟 **Krish Jain** 🌟
 ### *Full Stack Developer & AI/ML Engineer* 
 ### 🇮🇳 *Crafting Digital Excellence from India* 🇮🇳
 
